@@ -1,0 +1,30 @@
+h2 {
+    color:whitesmoke;
+    border:1px solid powderblue;
+    padding: 30px;
+    margin: 10px;
+}
+p {
+    color: whitesmoke;
+    font-family: monospace;
+}
+#p1 {
+    color:black;
+}
+p.p2 {
+    color:blue;
+}
+a:hover{
+    background-image: url("images/assasin creed.jpg");
+    color:blue;
+    font-size: 20px;
+}
+a:visited{
+    color: green;
+}
+a:active{
+    color: red;
+}
+a:link{
+    color: black;
+}
